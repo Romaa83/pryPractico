@@ -3,11 +3,7 @@ C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\bin\Debug\pryPractico.ex
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\bin\Debug\pryPractico.pdb
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.csproj.AssemblyReference.cache
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.csproj.SuggestedBindingRedirects.cache
-C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.frmCantidad.resources
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.frmConsultar.resources
-C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.frmLocalidad.resources
-C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.frmMenu.resources
-C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.frmProfesion.resources
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.Properties.Resources.resources
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.csproj.GenerateResource.cache
 C:\Users\Roma\Desktop\Practicas Laboratorio\pryPractico\obj\Debug\pryPractico.csproj.CoreCompileInputs.cache
