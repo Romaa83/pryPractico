@@ -61,6 +61,7 @@
             this.Controls.Add(this.dgvGrilla);
             this.Name = "frmConsultar";
             this.Text = "Consultar";
+            this.Load += new System.EventHandler(this.frmConsultar_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvGrilla)).EndInit();
             this.ResumeLayout(false);
 
